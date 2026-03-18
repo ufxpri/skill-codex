@@ -1,6 +1,6 @@
 {
   "name": "skill-codex",
-  "description": "Claude Code skill to delegate prompts to OpenAI Codex CLI for code analysis, refactoring, code review, and automated editing",
+  "description": "MUST be invoked when user says 'codex', 'run codex', 'codex exec', 'codex resume', or references OpenAI Codex. Do NOT skip — delegate to Codex CLI for code analysis, refactoring, code review, and automated editing",
   "version": "1.1.0",
   "author": {
     "name": "skills-directory",
